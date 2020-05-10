@@ -5,7 +5,7 @@
 
 You may see the difference in the file size and quality of the image!
 Really it would be great to see the quality after reducing the size from 1.3MB to 0.1MB.
-Lets have a fun guys with this!!
+Lets have a fun with this guys!!
 
 
 ## Thanks to the imaging libraries 
