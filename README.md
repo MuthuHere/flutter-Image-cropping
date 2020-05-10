@@ -10,11 +10,11 @@ Lets have a fun guys with this!!
 
 ## Thanks to the imaging libraries 
 
-   image_picker: ^0.6.6+1
+    image_picker: ^0.6.6+1
    
-   image_cropper: ^1.2.1
+    image_cropper: ^1.2.1
    
-   flutter_image_compress: ^0.6.7
+    flutter_image_compress: ^0.6.7
 
 
 
