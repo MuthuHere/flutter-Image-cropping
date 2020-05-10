@@ -1,16 +1,20 @@
 # flutterimagecompression
 
-A new Flutter application.
+![Alt Text](https://media.giphy.com/media/VIhuPS6QQ5TBOXXiTC/giphy.gif)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+You may see the difference in the file size and quality of the image!
+Really it would be great to see the quality after reducing the size from 1.3MB to 0.1MB.
+Lets have a fun guys with this!!
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Thanks to the imageing libraries 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   image_picker: ^0.6.6+1
+   image_cropper: ^1.2.1
+   flutter_image_compress: ^0.6.7
+
+
+
+
+happie coding:)
